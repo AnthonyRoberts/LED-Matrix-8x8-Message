@@ -1,0 +1,8 @@
+23 January 2011
+Anthony Roberts
+
+The source code displays a scrolling message across the 8x8 Matrix. By default,
+it will be Red text on a Green background. The buttons (redMode and greenMode)
+will alter colouring whilst pressed (eg. Red LEDs only)
+
+The potentionmeter controls the scroll speed.
