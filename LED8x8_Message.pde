@@ -15,8 +15,8 @@ byte my8x8[8];
 byte c8x8[8], n8x8[8];
 int shift = 8;
 int doingLetter = 0;
-char Message[] = "ARE YOU IMPRESSED DAVID? ";
-int messageLength = 10;
+char Message[] = "ARDUINO ";
+int messageLength = 8;
 int scrollSpeed = 100;
 
 void setup() {
